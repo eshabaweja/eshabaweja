@@ -1,6 +1,6 @@
 ## <a href="https://tenor.com/view/elsalla-gif-19369358"><img src="resources/wave-tenor.gif" alt="hand-wave" width="50"/></a> Hey! I’m Esha.
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=FFF923&size=35&center=true&vCenter=true&multiline=false&width=750&height=180&lines=Make+the+plan.;Execute+the+plan.;Expect+the+plan+to+go+off+the+rails.;Throw+away+the+plan.">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00C6E0&size=35&center=true&vCenter=true&multiline=false&width=750&height=180&lines=Make+the+plan.;Execute+the+plan.;Expect+the+plan+to+go+off+the+rails.;Throw+away+the+plan.">
 </div>
 
 
