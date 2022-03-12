@@ -8,8 +8,8 @@
 
 - 🎓 Studying Computer Science at Manipal University, Jaipur  
 
-- 🌱 Currently learning DSA and Front-end development
-- 🔭 Pursuing Graphic Design as a hobby/side hustle.
+- 🌱 Currently learning DSA and Web Development
+- 🔭 Pursuing Visual Design as a hobby/side hustle.
 - ⚡ Talk to me about books, art, and anything that interests you!
 
 
