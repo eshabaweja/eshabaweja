@@ -6,12 +6,10 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Studying Computer Science at Manipal University, Jaipur  
-
-- 🌱 Currently learning DSA and Web Development
-- 🔭 Pursuing Visual Design as a hobby/side hustle.
-- ⚡ Talk to me about books, art, and anything that interests you!
-
+- 🎓 Pursuing a Master's in Computer Science and Engineering at [The Ohio State University](https://www.osu.edu/), and a mentor for [ACM-W](https://acmwosu.github.io/). 
+- 🌱 Looking for Summer 2025 internships in back-end development.
+- 🔭 I was a trainee at BHEL in Summer 2023, where I worked on robot process automation and explored rasa for chatbot creation. 
+- ⚡ Currently reading [Crafting Interpreters](https://craftinginterpreters.com/contents.html)
 
 ##  <a href="https://tenor.com/view/the-loveable-zoo-cat-purple-laptop-busy-gif-14467181"><img src="resources/typing-tenor.gif" alt="cat typing gif" width="70"/></a> Reach Me
 <div style="line-height:250%">
