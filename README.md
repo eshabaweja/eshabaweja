@@ -6,15 +6,13 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing a Master's in Computer Science and Engineering at [The Ohio State University](https://www.osu.edu/), and a mentor for [ACM-W](https://acmwosu.github.io/). 
-- 🌱 Looking for Summer 2025 internships in back-end development.
+- 🎓 Pursuing a Master's in Computer Science and Engineering at [The Ohio State University](https://www.osu.edu/). 
+- 🌱 Looking for Summer 2025 SWE internships.
 - 🔭 I was a trainee at BHEL in Summer 2023, where I worked on robot process automation and explored rasa for chatbot creation. 
 - ⚡ Currently reading [Crafting Interpreters](https://craftinginterpreters.com/contents.html)
 
 ##  <a href="https://tenor.com/view/the-loveable-zoo-cat-purple-laptop-busy-gif-14467181"><img src="resources/typing-tenor.gif" alt="cat typing gif" width="70"/></a> Reach Out
 <div style="line-height:250%">
 <a href="https://www.linkedin.com/in/eshabaweja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/eshcapist/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.behance.net/eshcapist"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
 
